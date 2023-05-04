@@ -60,6 +60,6 @@ Character Escapes are used as a backslash(/), where it would prevent the code to
 
 ## Author
 
-Written by Jonathan Chen. I am currently a student at the UC Berkeley Extension Full-Stack bootcamp. I am coding on regular basis in order to improve my skills and break into the tech field. 
+Written by Jonathan Chen. I am currently a student at the UC Berkeley Extension Full-Stack bootcamp. I am coding on a regular basis in order to improve my skills and break into the tech field. 
 
 Github profile: [github.com/14chenj92](github.com/14chenj92)
